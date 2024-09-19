@@ -78,3 +78,12 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan 
 
 - run error <img src="foto11.PNG">
 - hasil modifikasi <img src="foto12.PNG">
+
+# 5. Tugas Praktikum
+1. Silakan selesaikan Praktikum 1 sampai 3, lalu dokumentasikan berupa screenshot hasil pekerjaan beserta penjelasannya!
+2. Buatlah sebuah program yang dapat menampilkan bilangan prima dari angka 0 sampai 201 menggunakan Dart. Ketika bilangan prima ditemukan, maka tampilkan nama lengkap dan NIM Anda.
+- hasil dart <img src="foto13.PNG">
+
+
+- hasil run <img src="foto14.PNG">
+3. Kumpulkan berupa link commit repo GitHub pada tautan yang telah disediakan di grup Telegram!
